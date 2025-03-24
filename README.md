@@ -1,2 +1,2 @@
 # Java-Projects
-A collection on Java projects.
+A collection of Java projects.
